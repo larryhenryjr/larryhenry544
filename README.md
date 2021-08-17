@@ -1,4 +1,4 @@
-### Hello, I'm Larry Henry Jr! 👋
+### Hi, I'm Larry Henry Jr! 👋
 
 <!--
 **larryhenry544/larryhenry544** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
